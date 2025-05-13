@@ -25,5 +25,5 @@ The model provided each customer with a risk probability, giving insurers a prac
 ✨ **Business Impact**
 Our model helps insurers proactively identify high-risk claims, supporting smarter pricing strategies, improved customer targeting, and more efficient claims processing. We also emphasized clear model interpretation to make results accessible for stakeholders without modeling expertise.
 
-**Summary**
+✨ **Summary**
 As part of the ASNA 2025 Hackathon, my team placed in the top 15 for predicting whether auto insurance claims would exceed $1,000 using R, achieving 88.83% accuracy. I cleaned and preprocessed 9,134 records by handling missing values and outliers, then built a GLM model to identify key predictors (e.g., income) to help insurers flag high-risk customers and optimize pricing
